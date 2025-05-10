@@ -1,3 +1,4 @@
+
 [
   {
     "position": 1,
@@ -25,7 +26,7 @@
     "slug": "firstaidonly-50person",
     "description": "Comprehensive first aid cabinet for medium-to-large teams.",
     "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/firstaidonly-50person.jpg",
-    "target_audience_match": "Ideal for safety officers at construction firms or warehouses managing teams of 25–50 workers.",
+    "target_audience_match": "Ideal for safety officers at construction firms or warehouses managing teams of 25\u201350 workers.",
     "price": "From $69.99",
     "data-link": "pending"
   },
