@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "name": "OSHA First Aid and PPE Kits for Workplace Safety",
+      "url": "https://dir.querygap.com/osha-first-aid-ppe-kits/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rapid Care OSHA First Aid Kit",
+          "url": "https://dir.querygap.com/osha-first-aid-ppe-kits/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/rapidcare-firstaid.jpg",
+          "description": "A fully stocked kit ideal for OSHA compliance in small to medium workplaces.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "3M PPE Essentials Starter Kit",
+          "url": "https://dir.querygap.com/osha-first-aid-ppe-kits/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/3m-ppe-kit.jpg",
+          "description": "PPE kit featuring trusted 3M protection gear for general jobsite safety.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "First Aid Only 50-Person ANSI/OSHA Kit",
+          "url": "https://dir.querygap.com/osha-first-aid-ppe-kits/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/firstaidonly-50person.jpg",
+          "description": "Comprehensive first aid cabinet for medium-to-large teams.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Medique Personal Protection Kit",
+          "url": "https://dir.querygap.com/osha-first-aid-ppe-kits/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/medique-ppe-kit.jpg",
+          "description": "Individual PPE kits for personal issue or emergency prep.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "North by Honeywell Industrial First Aid Kit",
+          "url": "https://dir.querygap.com/osha-first-aid-ppe-kits/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/honeywell-industrial-kit.jpg",
+          "description": "Heavy-duty kit built for high-risk job sites like factories and plants.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are these first aid kits OSHA compliant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes \u2014 all listed kits meet or exceed OSHA 1910.151(b) and/or ANSI Z308.1-2015 requirements depending on the product."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know which kit size is right for my workplace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "OSHA recommends choosing kits based on the number of employees and risk level; smaller kits suit up to 25 people, while larger cabinets cover up to 50 or more."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do these PPE kits include everything for COVID or chemical safety?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Basic PPE kits focus on respiratory and contact protection, but for chemical or pandemic-level safety, you may need specialized gear not included in standard kits."
+          }
+        }
+      ]
+    }
+  ]
+}
